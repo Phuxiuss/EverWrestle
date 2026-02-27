@@ -1,5 +1,5 @@
 <p align="center">
-<img width="550" height="262" alt="image" src="https://github.com/user-attachments/assets/fda9a7ea-6543-4b34-ab90-769fdeea8f02" />
+<img width="550" height="262" alt="image" src="https://github.com/user-attachments/assets/99d300f0-2de5-429d-88fe-50d46b00960d" />
 </p>
 
 **EverWrestle is a fun multiplayer Racing Game, where you try to be the first at the peak. 
