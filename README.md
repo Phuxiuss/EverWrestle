@@ -20,6 +20,8 @@ A flexible and reusable Object Spawner written in C++. Configure which objects g
 - **[Player Animation Blueprint](https://blueprintue.com/blueprint/6in-uekd/)** <br/>
 The Animation Blueprint responsible for managing all player animations. Here is the [function](https://blueprintue.com/blueprint/3nqq-sqg/) responsible for updating the States.
 
+*(Some links lead to [BlueprintUE](https://blueprintue.com/))*
+
 ## Built With
 - **Visual Scripting** (Blueprints)
 - **C++** (Programming Language)
